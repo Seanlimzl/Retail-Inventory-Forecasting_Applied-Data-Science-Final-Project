@@ -5,3 +5,5 @@ This was the final project for YSC4224 Applied Data Science at Yale-NUS College.
 Technologies/Techniques: Time Series Analysis, ARIMA, AutoARIMA, SARIMAX, parallel computing, Dask, Polars, Prophet, NeuralProphet, GitLFS 
 
 Competition link: https://www.kaggle.com/competitions/ysc4224-2023-final-project/data
+
+Authors: Elizabeth STEPTON, Jonathan CHIA, Joshua VARGAS, Raihanah FATINAH, Sean LIM
